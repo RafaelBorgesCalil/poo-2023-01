@@ -1,2 +1,6 @@
-package org.example.pratica02;public class Animal {
+package org.example.pratica02;
+public class Animal {
+        public String som() {
+            return "Voz produzida pelo animal";
+        }
 }
