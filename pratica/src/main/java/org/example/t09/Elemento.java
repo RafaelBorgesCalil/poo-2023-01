@@ -1,2 +1,4 @@
-package org.example.t09;public class Elemento {
+package org.example.t09;
+
+public class Elemento {
 }

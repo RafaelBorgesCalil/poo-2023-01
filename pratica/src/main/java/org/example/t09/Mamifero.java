@@ -1,2 +1,4 @@
-package org.example.t09;public class Mamifero {
+package org.example.t09;
+
+public class Mamifero {
 }
