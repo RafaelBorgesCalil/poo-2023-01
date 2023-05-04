@@ -1,2 +1,3 @@
-package org.example.pratica03;public interface Operacao {
+public interface Operacao {
+    void executa(Object);
 }

@@ -6,10 +6,6 @@ public class Livro {
     private Integer ano;
     private String editora;
 
-    public String toString(String string){
-        return string;
-    }
-
     public Livro(String titulo, String autor, Integer ano,String editora){
         setAno(ano);
         setAutor(autor);
